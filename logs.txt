@@ -1,0 +1,14 @@
+*   0cbc1d9 Merge branch 3-list-tasks-sorted-by-name into master
+|\  
+| *   0daeb68 Merge pull request #11 from craazed/2-find-all-completed-tasks
+| |\  
+| | * 454767a Implement getCompletedTasks method
+| * |   a38d21d Merge pull request #10 from craazed/1-remove-a-task-by-name
+| |\ \  
+| | |/  
+| |/|   
+| | * f904d7a Implement removeTask method
+| |/  
+* / 05a8ede Implement sortTaskByName method
+|/  
+* 2ec8c45 Add starter code
