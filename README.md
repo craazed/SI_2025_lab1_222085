@@ -1,1 +1,3 @@
-Ime: Marko \n Prezime: Poposki \n Indeks: 222085
+Ime: Marko
+Prezime: Poposki
+Indeks: 222085
